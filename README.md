@@ -1,2 +1,3 @@
-# responsible-for-everything-that-assistants-do
+# Responsible for Everything That Assistants Really Do
+
 This is the repo for my AI assistant.
